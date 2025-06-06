@@ -1,0 +1,1 @@
+print ("kaam kr lo")
