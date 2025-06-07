@@ -4,8 +4,9 @@ git rm --cached abc.py
 git commit -m "added testing file"
 git show
 git restore abc.py
-git remote add origin https://github.com/sarveshsharma-tech/gitworkshop_devops_1.git
+git remote add origin https://github.com/sarveshsharma-tech/github_project.git
 git remote set-url origin https://github.com/sarveshsharma-tech/github_project.git
 git remote -v
 git push origin master
 git clone https://github.com/sarveshsharma-tech/hello-github-actions.git
+git status
