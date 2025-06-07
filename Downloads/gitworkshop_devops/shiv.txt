@@ -1,5 +1,0 @@
-git remote -v
-git remote set-url https://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@github.com/sarveshsharma-tech/github_project.git
-git remote set-url origin https://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@github.com/sarveshsharma-tech/github_project.git
-git remote -v
-git push origin master
